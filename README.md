@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Yoannet 👋
+```js
+const yoannet93 = {
+    pronouns: "she" | "her",
+    code: [Javascript, SASS, CSS, HTML]
+}
+```
+You can find me:
+- [LinkedIn](https://www.linkedin.com/in/yoannet-d%C3%ADaz-vald%C3%A9s-4594281b4/)
 
 <!--
 **yoannet93/yoannet93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
