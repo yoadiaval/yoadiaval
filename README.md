@@ -1,5 +1,5 @@
 ### Hi, I'm Yoannet 👋
-I'm telecommunications engineer and this is a new branch in my professional career.
+I'm Telecommunications engineer and Font-end Web Development is a new branch in my professional career. I am very excited to see my growth in this area.
 
 ```js
 const yoannet93 = {
