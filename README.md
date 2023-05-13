@@ -1,5 +1,6 @@
 ### Hi, I'm Yoannet 👋
-This is a new branch in my professional career and I am very excited to see my evolution.
+I'm telecommunications engineer and this is a new branch in my professional career.
+
 ```js
 const yoannet93 = {
     pronouns: "she" | "her",
