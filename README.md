@@ -4,8 +4,8 @@ I'm Telecommunications engineer and Font-end Web Development is a new branch in 
 ```js
 const yoannet93 = {
     pronouns: "she" | "her",
-    code: [Javascript, SASS, CSS, HTML],
-    tools: [React, Bootstrap, Visual Studio Code,  Wordpress]
+    code: [Javascript, Java, SASS, CSS, HTML],
+    tools: [React, Bootstrap, Netbeans , Visual Studio Code]
 }
 ```
 You can find me:
