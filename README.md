@@ -4,8 +4,8 @@ I'm Telecommunications engineer and Web Development is a new branch in my profes
 ```js
 const yoannet93 = {
     pronouns: "she" | "her",
-    code: [Javascript, Java, SASS, CSS, HTML],
-    tools: [React, Bootstrap, Netbeans , Visual Studio Code]
+    code: [Javascript, Java, PHP, CSS, HTML],
+    tools: [React, Bootstrap, Netbeans, Visual Studio Code]
 }
 ```
 You can find me:
