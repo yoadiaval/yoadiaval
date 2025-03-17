@@ -1,5 +1,5 @@
 ### Hi, I'm Yoannet 👋
-I'm Telecommunications engineer and Web Development is a new branch in my professional career. I am very excited to see my growth in this area.
+I'm Telecommunications engineer and Web Development is a branch in my professional career.
 
 ```js
 const yoannet93 = {
