@@ -5,7 +5,7 @@ I'm Telecommunications engineer and Web Development is a branch in my profession
 const yoannet93 = {
     pronouns: "she" | "her",
     code: [Javascript, Java, PHP, CSS, HTML],
-    tools: [React, Bootstrap, Netbeans, Visual Studio Code]
+    tools: [React, Angular, Bootstrap, Netbeans, Visual Studio Code]
 }
 ```
 You can find me:
